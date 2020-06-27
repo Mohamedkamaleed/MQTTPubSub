@@ -16,8 +16,8 @@ namespace Subscriber
             //Intailize the Broker Settings
             BrokerModel _Broker = new BrokerModel();
             _Broker.Url = "tailor.cloudmqtt.com";
-            _Broker.Username = "jxdgnsju";
-            _Broker.Password = "by2uhfp1iSx8";
+            _Broker.Username = "xxxxxxxxxx";
+            _Broker.Password = "xxxxxxxxxx";
             _Broker.Port = 11300;
             _Broker.SSLPort = 21300;
             _Broker.WebSocketPort = 31300;
